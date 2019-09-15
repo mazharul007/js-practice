@@ -77,6 +77,5 @@ const sortToDo = function(todo){
         }
     })
 }
-
 sortToDo(toDoList);
 console.log(toDoList);
