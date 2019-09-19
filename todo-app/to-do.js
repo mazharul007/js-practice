@@ -14,7 +14,7 @@ const toDoList =[{
 const filters={
     searchedText:''
 }
-//render 
+ 
 /**
 const renderTodo= function(todo,filters){
     const filteredNote = todo.filter(function(task){
